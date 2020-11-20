@@ -9,3 +9,6 @@ To contact us please email [khjkservices@gmail.com](mailto:khjkservices@gmail.co
 
 <p align = "center"> Company address: WR14 1TW
   <br> Companies House Registered: 13012767 </p>
+  
+ <br><a href="mechanic.md">MOT tester and service tech</a>
+ <br><a href="arb.md">Arboricultural qualifications</a>
