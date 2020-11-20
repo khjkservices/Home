@@ -1,4 +1,4 @@
-<p style = "text-align: center;"># KH & JK Services</p>
+# KH & JK Services
 
 ***
 
