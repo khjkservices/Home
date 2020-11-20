@@ -8,4 +8,4 @@ Mechanic and Land based contractors in Worcestershire, we work across the South 
 To contact us please email [khjkservices@gmail.com](mailto:khjkservices@gmail.com)
 
 <p align = "center"> Company address: WR14 1TW
-  Company number with Companies House: 13012767 </p>
+  <br> Companies House Registered: 13012767 </p>
